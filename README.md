@@ -6,7 +6,7 @@ O projeto consiste em um sistema de proteção com sensor PIR que é capaz de de
 ⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀
 Pré-requisitos
-Para realizar o projeto é necessário que o programador faça a instalação da IDE do arduino no site www.arduino.cc e utilize o site www.tinkercad.com para realizar a simulação do circuito.
+Para realizar o projeto é necessário que o programador faça a instalação da IDE do arduino no site www.arduino.cc e utilize o site www.tinkercad.com para realizar a simulação do circuito 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀
 Créditos
