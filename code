@@ -1,0 +1,18 @@
+#include <Servo.h>
+#include  <dht.h>
+dht  DHT ; 
+#define DHT11_PIN 10 
+String  voice ; 
+void  setup ()  
+{ 
+Serial . começar ( 9600 );  
+} 
+void  loop ()  
+{ 
+int  chk  = DHT . read11 ( DHT11_PIN ); 
+Serial . print ( "Temperatura =" ); 
+Serial . println ( DHT . temperatura ); 
+Serial . print ( "Humidade ="); 
+Serial . println ( DHT . humidade ); 
+atraso ( 1000 ); 
+}
